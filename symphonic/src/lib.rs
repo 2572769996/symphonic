@@ -28,7 +28,6 @@ fn on_attach() {
     interceptor.leak();
 
     println!("Symphonic successfully initialized. Time to play Neverness to Everness!");
-    println!("Copyright 2025, ReversedRooms. All bytes reversed.");
 }
 
 #[unsafe(no_mangle)]
